@@ -10,7 +10,7 @@ if(trees_or_swamp == 1) {
         let cliff_or_easy = prompt("As you go down the easier tunnel you notice the backside of the forest has a cliff that apperas to be where the gold is. the cliff is very steep. The other path will take you away from the back of the forest and cliff. Do you (1) take the easy path or (2) climb the hill?")
         if (cliff_or_easy==1){
         alert("You get lost and eventually killed by a gator. Game over......")
-        } else,{
+        } else{
             alert("You climb the hill and find the GOLD!!!! You Win")
         }
     }
